@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import * as Location from 'expo-location'
 import WeatherInfo from './components/WeatherInfo'
 
-const WAPIKEY = "d42297f73e0bdf0fdab4e10d40fc4051";
+const WAPIKEY = //hid api key from github for now;
 
 export default function App() {
 
